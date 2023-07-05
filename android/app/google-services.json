@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878376672102",
+    "project_id": "applist2-41287",
+    "storage_bucket": "applist2-41287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878376672102:android:fd0d417822682918d086a7",
+        "android_client_info": {
+          "package_name": "br.com.fr4nkd.minhastarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878376672102-gsv29qpmi0nltsl9tdp5nqv8lmbo7agm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjwGOESlHDDLmvWwrbq1jyD9BjEb1reA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878376672102-gsv29qpmi0nltsl9tdp5nqv8lmbo7agm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878376672102-ku6fks0nmtjhnm245ngaogbmgigppr0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fr4nkd.minhastarefas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
